@@ -1,5 +1,5 @@
 flows:
-  a1d786d3-f510-46cd-8aa2-812f21197481: {ver: 1, file: test123.snapshot, comments: '',
-    author: anonymous, created: 1691498321750, flowName: test123, flowDesc: ''}
+  a1d786d3-f510-46cd-8aa2-812f21197481: {ver: 2, file: test123.snapshot, comments: commit
+      1, author: anonymous, created: 1691498355012, flowName: test123, flowDesc: ''}
 layoutVer: 1
 bucketId: 060cf12a-7e90-428e-a870-1cc2a7db78b7
