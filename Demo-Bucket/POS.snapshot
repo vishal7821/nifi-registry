@@ -33543,8 +33543,8 @@
           "name" : "Offmotor ITMS Table",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : 3400.0,
-            "y" : 928.0
+            "x" : 3600.0,
+            "y" : 984.0
           },
           "properties" : {
             "gen-table-output-flowfile-on-zero-results" : "false",
